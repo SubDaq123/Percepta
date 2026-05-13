@@ -9,7 +9,7 @@ Turning obstacles into awareness.
 - **Voice Control** – Fully hands free interaction via voice commands
 - **Auto Tracking Sensor** – Detects and orients toward nearby objects automatically
 - **Offline Compatible** - Most of the features work without internet
-
+- **Haptic Feedback ** - Users experience haptic feedback through modulated vibrations in their legs based on obstacle proximity.
 ## Built With
 
 - **Python**
